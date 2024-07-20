@@ -23,7 +23,8 @@ A healthcare application leveraging machine learning to predict the likelihood o
 
 ## <a name="demo">▶️ Demo Video</a>
 
-https://github.com/user-attachments/assets/f9c41d75-b6ad-4c57-a330-247bfed52b39
+https://github.com/user-attachments/assets/36b95467-50dc-4b0c-888c-0e3143428e2e
+
 
 ## <a name="features">🔋 Features</a>
 
